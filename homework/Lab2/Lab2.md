@@ -51,10 +51,10 @@ hostname -I
 
 | 项目 | 你的填写内容 |
 | :--- | :--- |
-| 本人学号、姓名 | 2025333008邢宸彰 |
-| Ubuntu 用户名（`whoami` 输出） | xcz |
-| 虚拟机 IP 地址（`hostname -I` 输出） | 196.168.110.128 |
-| 报告在本地仓库中的相对路径 | \OperatingSystem\2025333008邢宸彰\Lab2 |
+| 本人学号、姓名 | |
+| Ubuntu 用户名（`whoami` 输出） | |
+| 虚拟机 IP 地址（`hostname -I` 输出） | |
+| 报告在本地仓库中的相对路径 | |
 
 ---
 
@@ -134,9 +134,9 @@ ls
 
 | 项目 | 你的填写内容 |
 | :--- | :--- |
-| hello.c 通过哪种方式送进虚拟机 | Remote-SSH |
-| 虚拟机练习目录的完整路径（`pwd` 输出） | /home/xcz/os-labs/Lab2 |
-| Remote-SSH 或 scp 是否一次成功；若否，原因和解决过程 | 是 |
+| hello.c 通过哪种方式送进虚拟机 | |
+| 虚拟机练习目录的完整路径（`pwd` 输出） | |
+| Remote-SSH 或 scp 是否一次成功；若否，原因和解决过程 | |
 
 ---
 
@@ -180,8 +180,8 @@ echo '学号姓名：2026333001张三；Lab2'
 
 | 工具 | 版本第一行 | 是否可用；若不可用写修复方法 |
 | :--- | :--- | :--- |
-| gcc | gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0 | 是 |
-| strace | strace -- version 6.1 | 是 |
+| gcc | gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0 | |
+| strace | strace -- version 6.1 | |
 
 ---
 
