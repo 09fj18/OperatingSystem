@@ -135,7 +135,7 @@ ls
 | 项目 | 你的填写内容 |
 | :--- | :--- |
 | hello.c 通过哪种方式送进虚拟机 | Remote-SSH |
-| 虚拟机练习目录的完整路径（`pwd` 输出） |/home/彭承薇/os-labs/Lab2|
+| 虚拟机练习目录的完整路径（`pwd` 输出） |/home/starts11/os-labs/Lab2|
 | Remote-SSH 或 scp 是否一次成功；若否，原因和解决过程 |是 |
 
 ---
