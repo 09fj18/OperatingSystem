@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello, OS!\n");
-    printf("Press Enter to finish.\n");
+    printf("Hello, OS!\\n");
+    printf("Press Enter to finish.\\n");
     getchar();
-    printf("Finished.\n");
+    printf("Finished.\\n");
     return 0;
 }
